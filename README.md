@@ -21,6 +21,6 @@
 # Как рабоать с скриптами
 Запуск скриптов производить через django shell:
 
-`python manage.py shell < examples/mana_to_many.py`
+`python manage.py shell < examples/many_to_many.py`
 
 Примеры разбиты на блоки, предлагается раскомментировать интересующий блок и запустить код.
